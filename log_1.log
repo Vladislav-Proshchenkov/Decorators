@@ -1,0 +1,4 @@
+Time: 2024-07-18 16:00:38.490345 Function name: hello_world Arguments: ((), {}) Result: Hello World 
+Time: 2024-07-18 16:00:38.490345 Function name: summator Arguments: ((2, 2), {}) Result: 4 
+Time: 2024-07-18 16:00:38.490345 Function name: div Arguments: ((6, 2), {}) Result: 3.0 
+Time: 2024-07-18 16:00:38.490345 Function name: summator Arguments: ((4.3,), {'b': 2.2}) Result: 6.5 

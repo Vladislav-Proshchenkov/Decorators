@@ -1,0 +1,5 @@
+INFO:root:Time: 2024-07-18 16:00:50.175524 Function name: hello_world Arguments: ((), {}) Result: Hello World
+INFO:root:Time: 2024-07-18 16:00:50.175524 Function name: summator Arguments: ((2, 2), {}) Result: 4
+INFO:root:Time: 2024-07-18 16:00:50.175524 Function name: div Arguments: ((6, 2), {}) Result: 3.0
+INFO:root:Time: 2024-07-18 16:00:50.175524 Function name: summator Arguments: ((4.3,), {'b': 2.2}) Result: 6.5
+INFO:root:Time: 2024-07-18 16:00:50.175524 Function name: summator Arguments: ((), {'a': 0, 'b': 0}) Result: 0
